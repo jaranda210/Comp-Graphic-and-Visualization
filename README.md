@@ -1,15 +1,10 @@
 # Comp-Graphic-and-Visualization
 
-1. How do I approach designing software?
-What new design skills has your work on the project helped you to craft?
-What design process did you follow for your project work?
-How could tactics from your design approach be applied in future work?
+1. Designing Software and Developing Design Skills
+When designing software, I follow a structured approach that includes planning, prototyping, and iterating based on feedback.  Working on this project helped refine my ability to break down complex scenes into basic components and apply lighting and textures effectively.  I followed a step-by-step design process, starting with concept sketches, identifying key objects, and then structuring the scene with appropriate 3D elements.  These tactics—such as iterative refinement and structured design thinking—can be applied to future projects, ensuring efficient problem-solving and high-quality results in both software development and UX design.
 
-2. How do I approach developing programs?
-What new development strategies did you use while working on your 3D scene?
-How did iteration factor into your development?
-How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+2. Developing Programs and Iteration in 3D Scene Creation
+My approach to developing programs involves incremental progress, testing, and debugging.  For my 3D scene, I used trial-and-error development strategies, refining object placement, textures, and lighting step by step.  Iteration played a major role as I adjusted object materials and lighting settings to achieve the desired realism.  Throughout the milestones, my coding approach evolved by incorporating better code organization, reusable functions, and performance optimizations.  These skills will help in future development projects, making my workflow more efficient and adaptable.
 
-3. How can computer science help me in reaching my goals?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+3. Applying Computer Science to My Goals
+Computer science provides powerful tools for solving problems, automating tasks, and creating interactive experiences.  Computational graphics and visualizations have given me valuable skills in 3D modeling, rendering, and optimization, which are applicable in UX design, game development, and data visualization.  These skills will enhance my future educational path by allowing me to work on more complex projects involving 3D interfaces or VR applications.  Professionally, this knowledge is beneficial in fields like software engineering, UI/UX design, and AI-driven visualizations, where computational graphics play a crucial role in creating immersive and interactive experiences.
